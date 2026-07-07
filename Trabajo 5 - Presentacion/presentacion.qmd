@@ -1,0 +1,154 @@
+---
+title: "Presentación Final"
+author: "Daniela Parra"
+format: revealjs
+editor: visual
+---
+
+# Malestar subjetivo y confianza en el gobierno en Chile:
+
+Subtítulo: Síntesis de trabajos 1, 2, 3 y 4 a partir de ELSOC 2022. Autora: Daniela Parra.
+
+## Problema de investigación:
+
+La investigación aborda la confianza en el gobierno en Chile, entendida como parte de un contexto más amplio de desconfianza institucional. Se analiza cómo esta confianza varía según características sociodemográficas como edad, sexo y nivel socioeconómico.
+
+##### ![](images/clipboard-1018071016.png)
+
+## Pregunta e hipotesis:
+
+#### Pregunta de investigación:
+
+¿Cómo varía la confianza en el gobierno en Chile según la edad, el sexo, el nivel socioeconómico y el malestar subjetivo?
+
+#### Hipotesis:
+
+A mayor malestar subjetivo, menor será la confianza en el gobierno.
+
+#### Objetivo:
+
+Analizar la relación entre la confianza en el gobierno y las características sociodemográficas de las personas, utilizando datos de ELSOC 2022.
+
+## Datos y variables:
+
+#### Base de datos utilizada:
+
+ELSOC 2022: Estudio Longitudinal Social de Chile. Permite analizar opiniones, actitudes y características sociodemográficas de la población en Chile.
+
+#### Variable dependiente:
+
+Confianza en el gobierno.
+
+#### Variables independientes:
+
+Edad, sexo, nivel socioeconómico y malestar subjetivo.
+
+#### Recodificación importante:
+
+La satisfacción con la vida (variable para medir malestar) fue recodificada en tres categorías: Baja, Media y Alta.
+
+## **Trabajo 2: análisis descriptivo**
+
+#### Principales resultados:
+
+-   La confianza en el gobierno se concentra en niveles bajos e intermedios (un 34.2% bajo y un 27.7% muy bajo).
+
+-   La muestra presenta diferencias según edad, sexo y nivel socioeconómico.
+
+-   La confianza alta en el gobierno aparece como lo menos frecuente.
+
+-   Esto muestra que la confianza en el gobierno no es homogénea entre la población.
+
+#### Interpretación general:
+
+-   Los resultados descriptivos permiten observar que la confianza en el gobierno se vincula con un contexto más amplio de desconfianza hacia las instituciones.
+
+## **Trabajo 3: análisis bivariado y desafíos**
+
+#### Resultados principales:
+
+-   La relación entre el malestar subjetivo (medido a través de un índice compuesto inicial) y la confianza en el gobierno fue negativa.
+
+-   Esto indica que, a mayor malestar subjetivo, la confianza en el gobierno tiende a disminuir levemente.
+
+-   El sexo y el nivel socioeconómico mostraron diferencias en la confianza.
+
+#### Interpretación y autocrítica:
+
+-   El análisis bivariado entregó un primer apoyo a la hipótesis, pero mostró que la relación entre los conceptos no es lineal ni tan simple. Al evaluar la escala con el test de Alfa de Cronbach, se obtuvo un valor de 0.65, revelando que el índice propuesto era inestable. Por eso fue necesario avanzar hacia un cambio radical para el modelo final.
+
+## **El cambio clave del Trabajo 3 al Trabajo 4**
+
+#### Nota sobre el quiebre metodológico:
+
+-   Para solucionar la baja consistencia del Trabajo 3, en el Trabajo 4 se corrigió por completo la operacionalización. Se abandonó el índice general inestable y se redirigió el foco con precisión quirúrgica hacia la "justificación de la violencia", separando la dimensión institucional (justificación de Carabineros) de la comunitaria. Este cambio limpió los errores y estabilizó los datos.
+
+## **Trabajo 4: modelos de regresión lineal**
+
+#### Resultados principales:
+
+-   En el Trabajo 4 se estimaron modelos de regresión lineal para analizar la justificación de la violencia institucional (Carabineros) incorporando edad, sexo y nivel socioeconómico.
+
+-   En comparación con los jóvenes, los grupos de mayor edad presentan niveles de justificación significativamente más altos.
+
+-   La edad aparece como la variable más consistente: a mayor edad, mayor confianza en las fuerzas de orden legítimas.
+
+-   El sexo no mostró diferencias de gran magnitud en los coeficientes.
+
+#### Interpretación:
+
+-   Los modelos entregan un apoyo parcial a la hipótesis, ya que la relación con el control estatal se asocia fuertemente a la edad, pero este efecto se altera al controlar por los tramos socioeconómicos y el nivel de malestar con el entorno.
+
+## **Valores predichos**
+
+#### Resultado principal:
+
+-   El gráfico compara la justificación predicha en el modelo entre los distintos tramos de edad y sexo.
+
+-   Ambos sexos presentan niveles de justificación muy específicos según el tramo etario en la escala.
+
+-   Las personas mayores aparecen con una disposición visiblemente mayor a justificar la acción institucional.
+
+-   Esto coincide con la regresión, donde las diferencias generacionales pesan más que el género por sí solo.
+
+#### Interpretación:
+
+-   El gráfico permite observar visualmente que el sexo no explica diferencias tan importantes en la justificación de la violencia institucional en comparación con el impacto de la edad.
+
+## **Regresión logística**
+
+#### Resultados principales:
+
+-   Además de los modelos lineales, se estimó una regresión logística para analizar la probabilidad de justificar o no la fuerza institucional.
+
+-   La percepción de injusticia del entorno presentó una relación estadísticamente significativa con la probabilidad de rechazo.
+
+-   La edad volvió a aparecer como una variable relevante y altamente consistente, elevando las probabilidades relativas de respaldo a Carabineros a medida que aumenta la cohorte etaria.
+
+-   El sexo no mostró diferencias determinantes en este modelo binomial.
+
+#### Interpretación:
+
+-   La regresión logística refuerza que la edad es la variable más consistente del análisis, mientras que los factores de malestar subjetivo sobre el entorno económico reciben un apoyo parcial pero clave para entender el quiebre de confianza.
+
+## **Conclusiones generales**
+
+#### Principales conclusiones:
+
+-   La confianza en el gobierno en Chile se ubica principalmente en niveles bajos, superando el 60% de rechazo.
+
+-   La hipótesis recibe un apoyo parcial: las personas con mayor malestar o percepciones de injusticia tienden a mostrar menos confianza, pero la relación no es totalmente directa.
+
+-   La edad es la variable más consistente y estable de todo el análisis estadístico.
+
+-   El sexo no mostró diferencias relevantes en la confianza final hacia el gobierno o Carabineros.
+
+#### Conclusión sociológica:
+
+-   La confianza y la justificación institucional en Chile deben entenderse como parte de un contexto más amplio de desconfianza institucional, donde influyen fuertemente las posiciones sociales, las diferencias generacionales y las formas en que las personas experimentan el malestar y se relacionan con la fuerza del Estado.
+
+## **Referencias**
+
+-   Centro de Estudios de Conflicto y Cohesión Social \[COES\]. (2022). *Estudio Longitudinal Social de Chile, ELSOC 2022*.
+
+-   Manuales de R y librerías utilizadas para los modelos lineales y logísticos.
